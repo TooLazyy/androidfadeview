@@ -8,13 +8,19 @@
     tools:context=".MainActivity">
 
     <ru.wearemad.fadeview.FadeView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent">
-        <ImageView
-            android:src="@mipmap/ic_launcher"
-            android:scaleType="centerCrop"
+        android:layout_width="0dp"
+        android:layout_height="300dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginBottom="16dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent">
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recycler"
             android:layout_width="match_parent"
-            android:layout_height="match_parent" />
+            android:layout_height="wrap_content" />
     </ru.wearemad.fadeview.FadeView>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
