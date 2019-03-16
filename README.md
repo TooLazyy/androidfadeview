@@ -5,7 +5,7 @@ A sample of fadingview which allows to make a "fading edges" effect like in inst
 ---
 | Some        | screen           | shots  |
 | ------------- |:-------------:| -----:|
-|          <img align="left" width="150" height="300" src="https://github.com/TooLazyy/AndroidTopToast/blob/master/screenshots/toast6.jpg">     | <img align="left" width="150" height="300" src="https://github.com/TooLazyy/AndroidTopToast/blob/master/screenshots/toast5.jpg"> | <img align="left" width="150" height="300" src="https://github.com/TooLazyy/AndroidTopToast/blob/master/screenshots/toast4.jpg"> 		  |
+|          <img align="left" width="150" height="300" src="https://github.com/TooLazyy/androidfadeview/blob/master/screenshots/img1.jpg">     | <img align="left" width="150" height="300" src="https://github.com/TooLazyy/androidfadeview/blob/master/screenshots/img2.jpg"> | <img align="left" width="150" height="300" src="https://github.com/TooLazyy/androidfadeview/blob/master/screenshots/img3.jpg"> 		  |
 
 
 ### Usage
